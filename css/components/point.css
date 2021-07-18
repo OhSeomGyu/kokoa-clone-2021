@@ -1,0 +1,24 @@
+.point {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 2.5px;
+  position: absolute;
+  right: -6px;
+  top: -7px;
+}
+
+.warning {
+  display: flex;
+  border: 2px solid tomato;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  position: relative;
+  left: 7px;
+  top: 17px;
+  font-size: 13px;
+  justify-content: center;
+  align-items: center;
+  color: tomato;
+}
